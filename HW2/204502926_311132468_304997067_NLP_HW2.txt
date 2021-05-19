@@ -1,6 +1,0 @@
-#Students:
-Ofir Nesher - 204502926
-Yuval Katz - 311132468
-Ofer Gross - 304997067
-
-https://colab.research.google.com/drive/1Lnixj_SlTu1S-ihwgpmmt-VTIJDhjYgG
