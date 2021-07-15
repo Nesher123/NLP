@@ -1,6 +1,0 @@
-#Students:
-Ofir Nesher
-Yuval Katz
-Ofer Gross
-
-https://colab.research.google.com/drive/1rX5r5pHePYRxeJvOrUAr7OoxOJxJkayu?usp=sharing
